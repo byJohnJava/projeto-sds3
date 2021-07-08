@@ -1,4 +1,4 @@
-# projeto-sds3
+# Projeto Semana Dev Superior 3º Edição
 
 ✨ Funcionamento:
 - Home com direcionamento para tela de Dashboard
