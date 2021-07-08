@@ -1,5 +1,8 @@
 # Projeto Semana Dev Superior 3º Edição
 
+![image](index.PNG)
+![image](dashboard.PNG)
+
 ✨ Funcionamento:
 - Home com direcionamento para tela de Dashboard
 - Página Dashboard com:
